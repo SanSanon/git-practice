@@ -3,3 +3,4 @@ major = input("What is your major? ")
 
 print(f"Hello, {name}!")
 print(f"You are studying {major}.")
+print("Welcome to my Git practice project!")
